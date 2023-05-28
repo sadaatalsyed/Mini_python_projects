@@ -1,0 +1,7 @@
+Welcome to my file
+This is second line of the file
+this is 3rd line of the file
+How are you and what are you doing 
+which line is this 
+guess the line number
+close the file
