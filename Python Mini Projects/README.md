@@ -1,0 +1,1 @@
+Age Calcuator, ArmStrong Number, Dice Simulator, Email Parser, Encoder and Decoder of Text Messages, Factorial, Missing Number or Missing Word, Find World Count in a File,Hangman Game, HFC of any numbers, LCM of Multiple numbers, Music Player Programm, Palindrome Programm, Plagiarism Checker, Prime Number Finder, Recurrsive Fibbonaci Calculator, Rock Paper Scissor Game.
